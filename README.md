@@ -1,4 +1,5 @@
 # mini-landing-page
+A landing page with an information collecting form. Simple and responsive design elements. 
 
 ## Site Picture
 
